@@ -1,0 +1,10 @@
+apache_codes/deltaspike/deltaspike/core/impl/deltaspike-core-impl-1.8.1-SNAPSHOT.jar
+apache_codes/directory-server/kerberos-codec/apacheds-kerberos-codec-2.0.0-M25-SNAPSHOT.jar 
+apache_codes/incubator-taverna-workbench/taverna-perspective-myexperiment/taverna-perspective-myexperiment-3.1.0-incubating-SNAPSHOT.jar
+apache_codes/manifoldcf/framework/core/mcf-core-2.9-SNAPSHOT.jar
+apache_codes/meecrowave/meecrowave-core/meecrowave-core-1.2.0-SNAPSHOT.jar
+apache_codes/spark/core/spark-core_2.11-2.4.0-SNAPSHOT.jar
+apache_codes/tika/tika-core/tika-core-1.17-SNAPSHOT.jar
+apache_codes/tomee/container/openejb-core/openejb-core-7.0.5-SNAPSHOT.jar
+apache_codes/wicket/wicket-util/wicket-util-8.0.0-SNAPSHOT.jar
+apache_codes/activemq-artemis/artemis-commons/artemis-commons-2.5.0-SNAPSHOT.jar
